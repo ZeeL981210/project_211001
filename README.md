@@ -1,8 +1,6 @@
 
   
 
-# LAB 2
-
   
 ## Database
 
